@@ -6,6 +6,6 @@
 <br/>
 <p align="center">
   <a href="https://chat.vrite.cn"><img src="https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord" alt="discord chat"></a>
-  <a href="https://senao.me/"><img src="https://img.shields.io/badge/Senao%20Docs-18181B?logo=senao" alt="Website"></a>
+  <a href="https://vrite.cn"><img src="https://img.shields.io/badge/Vrite%20Docs-18181B?logo=vrite" alt="Website"></a>
 </p>
 <br/>
